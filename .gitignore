@@ -1,0 +1,15 @@
+# Environment variables (keep your keys safe!)
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# SQLite database & runtime instances
+instance/
+*.db
+
+# Local user uploads & vector store
+uploads/
+chroma_db/
