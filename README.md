@@ -63,6 +63,8 @@ Open your browser and go to `http://127.0.0.1:5000`
 
 ## How to use
 Before starting upload the content from .env.example from the given file and uplaod it as .env file inside your project folder and attach your gemini api key.
+
+
 When you open the app for the first time it will ask you to register. Create an account and log in. After login create a new project from the dashboard. Then go inside the project and upload a document. Wait for it to finish processing. Once the status shows ready you can start asking questions in the chat box on the right side. To get a summary of a document click the small document icon next to it. To delete a document click the trash icon. It will remove the file and also clear its data from the search index. To clear chat history click the Clear History button at the top of the chat panel.
 
 ## Sample Test PDFs & Questions
